@@ -1,9 +1,9 @@
 # 💫 About Me:
 # Hi, I'm Abhijeet 👋
 
-🧬 Biology graduate → 💻 Full-Stack Developer | Odisha, India
+🧬 A Biology graduate turned into a 💻 Full-Stack Developer. 
 
-Self-taught through projects, bootcamps, and documentation — no CS degree, just curiosity and a lot of broken code that eventually worked.
+Self-taught through projects, bootcamps, and documentation, just curiosity and a lot of broken code that eventually worked.
 
 I build full-stack web apps in the JavaScript ecosystem, from pixel-level UI to database design.
 
@@ -27,11 +27,6 @@ Tools & DevOps: Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhijeet231&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet231&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhijeet231&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhijeet231&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijeet231&icon=0&color=0)](https://visitcount.itsvg.in)
