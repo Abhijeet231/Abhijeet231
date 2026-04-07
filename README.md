@@ -9,8 +9,11 @@ I build full-stack web apps in the JavaScript ecosystem, from pixel-level UI to 
 
 ## 🛠 Tech Stack
 Frontend: React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Zustand, Context API
+
 Backend: Node.js, Express.js, REST APIs, WebSockets (Socket.io), JWT
+
 Databases: MongoDB, PostgreSQL
+
 Tools & DevOps: Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox
 
 
