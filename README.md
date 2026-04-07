@@ -8,10 +8,10 @@ Self-taught through projects, bootcamps, and documentation — no CS degree, jus
 I build full-stack web apps in the JavaScript ecosystem, from pixel-level UI to database design.
 
 ## 🛠 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Zustand, Context API
-**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.io), JWT
-**Databases:** MongoDB, PostgreSQL
-**Tools & DevOps:** Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox
+Frontend: React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Zustand, Context API
+Backend: Node.js, Express.js, REST APIs, WebSockets (Socket.io), JWT
+Databases: MongoDB, PostgreSQL
+Tools & DevOps: Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox
 
 
 ## 🌐 Socials:
