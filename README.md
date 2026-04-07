@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hi, I'm Abhijeet 👋<br><br>A Biology graduate turned Full-Stack Developer from Odisha, India — self-taught through projects, documentation, and sheer curiosity.<br><br>I build real-world web applications using the **JavaScript ecosystem** — from crafting responsive UIs with React and Next.js to designing scalable REST APIs with Node.js and Express. My recent work includes a **clinic token & appointment system** ([Token Mitra](https://tokenmitra.online)) and a **local service booking platform** (ServiceLe), both built end-to-end with authentication, real-time features, and cloud deployment.<br><br>## 🛠 Tech Stack<br>**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Zustand, Context API  <br>**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.io), JWT  <br>**Databases:** MongoDB, PostgreSQL  <br>**Tools & DevOps:** Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox<br><br><br><br>## 📫 Reach Me<br>- 📧 ghoshabhijeet778@gmail.com<br>- 💼 [LinkedIn]( https://www.linkedin.com/in/abhijit-ghosh-63b624235/)
+# Hi, I'm Abhijeet 👋
+
+🧬 Biology graduate → 💻 Full-Stack Developer | Odisha, India
+
+Self-taught through projects, bootcamps, and documentation — no CS degree, just curiosity and a lot of broken code that eventually worked.
+
+I build full-stack web apps in the JavaScript ecosystem, from pixel-level UI to database design.
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui, Zustand, Context API
+**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.io), JWT
+**Databases:** MongoDB, PostgreSQL
+**Tools & DevOps:** Git, Docker (basic), Vercel, Render, Postman, Cloudinary, Mapbox
 
 
 ## 🌐 Socials:
