@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Abhijeet 👋
 
-🧬 A Biology graduate turned into a 💻 Full-Stack Developer. 
+a Full-Stack Engineer passionate about building useful products with AI and web technologies.
 
 Self-taught through projects, bootcamps, and documentation, just curiosity and a lot of broken code that eventually worked.
 
